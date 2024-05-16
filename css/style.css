@@ -1,0 +1,33 @@
+.box{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    }
+
+.top{
+    padding: 20px 40px;
+    border: 2px solid gray;
+    }
+
+.text{
+    padding: 40px;
+    border: 2px solid red;
+    }
+
+.info{
+    padding: 20px;
+    text-align: center;
+    background: pink;
+}
+
+.text a{
+    display: block;
+    width: 90px;
+    margin: 10px 0px;
+    background: blue;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
